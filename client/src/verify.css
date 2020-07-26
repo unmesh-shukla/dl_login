@@ -1,0 +1,10 @@
+video {
+    border: 1px solid;
+    position: relative;
+    margin-top: 20px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 0);
+    width: 400px;
+    height: 300px;
+}
